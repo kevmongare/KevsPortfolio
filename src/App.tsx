@@ -4,6 +4,7 @@ import Menu from './components/Header'
 import AboutUs from './components/AboutMe'
 import Projects from './components/Projects'
 import Footer from './components/Footer'
+import Hero from './components/HeroSection';
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
         <Routes>
           <Route path="/" element={
             [<Menu />,
+              <Hero />,
             <AboutUs/>,
             <Projects/>]
             

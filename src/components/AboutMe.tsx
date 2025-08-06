@@ -21,7 +21,7 @@ export default function AboutUs(){
     return(
     <>
     
-    <div className='p-10'>
+    <div id='About' className ='p-10'>
         <h1 className=" p-5 font-extrabold">{Header}</h1>
         <p className=' pt-5'>{AboutKev}</p>
         <p>{AboutKev1}</p>
