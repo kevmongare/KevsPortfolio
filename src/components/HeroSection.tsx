@@ -1,7 +1,7 @@
 import '../App.css'
 const Header = "Hi, I'm Kevin Mongare."
 const Header1 = "I Build clean, fast, and functional web experiences."
-const Header2 ="I'm a junior full-stack developer passionate about creating modern web apps with React, Tailwind, and Python Let’s build something impactful together."
+// const Header2 ="I'm a junior full-stack developer passionate about creating modern web apps with React, Tailwind, and Python Let’s build something impactful together."
 const CTA = 'Check Projects'
 
 const Hero = () =>{
